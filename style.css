@@ -351,3 +351,13 @@ p{
 }
 
 /*Code for spider animation*/
+.footer {
+   position: absolute;
+   left: 0;
+   bottom: 0;
+   width: 20%;
+   background-color: red;
+   color: white;
+   text-align: center;
+    font-size: 10px;
+}
